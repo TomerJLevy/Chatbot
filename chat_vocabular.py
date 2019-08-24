@@ -1,0 +1,6 @@
+hi = ['hi', 'hey', 'hello', 'helo', 'shalom', 'how are you', 'whats up', "what's up"]
+greet = ['Hi!', 'Hey!', 'Welcome!', 'Hello!', 'Shalom!', 'Hi! how are you?', "What's up?", "Good to have you back"]
+error = ["sorry, i don't know", "what u said?", ]
+bye   = ["bye", "close", "exit", "quit", ]
+thanks = ["thank"]
+thanks_res = ["you're welcome", "happy to help", "I'm glad, what should we do next?", "I'm happy you're satisfied", "Now I'm pleased", ":P", ":)"]
